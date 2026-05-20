@@ -7,5 +7,14 @@
 * Postcondition: username is unchanged.
 */
 public String getShortenedName(){
-  //
+  if(username.contains("-")){
+    String[] shortn = username.split("-");
+    String comb = "";
+    for(int i=0; i<shortn.length; i++){
+      comb += shortn[i]
+    }
+    return comb;
+  }else{
+  return username; 
+  }
 }
