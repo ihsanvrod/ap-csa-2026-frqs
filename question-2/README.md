@@ -14,7 +14,7 @@ The following table contains a sample code execution sequence and the correspond
 The code execution sequence appears in a class other than Bottle.
 
 
-<img width="827" height="792" alt="image" src="https://github.com/user-attachments/assets/ec08751e-ef33-436c-afff-3b96ec8649db" />
+<img width="413.5" height="396" alt="image" src="https://github.com/user-attachments/assets/ec08751e-ef33-436c-afff-3b96ec8649db" />
 
 
 Write the complete Bottle class. Your implementation must meet all specifications and
